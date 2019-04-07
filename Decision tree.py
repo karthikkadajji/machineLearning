@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Nov 17 22:38:48 2018
-
+Read a set of attributes and print to xml file
 @author: Karthik
 """
 import copy
