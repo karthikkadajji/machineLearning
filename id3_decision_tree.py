@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Nov 24 21:28:41 2018
-"prinitn as XML"
+#program that implements a decision tree using the ID3 algorithm presented
+#Read a set of attributes and print to xml file
 @author: Karthik
 """
 # -*- coding: utf-8 -*-
